@@ -1,3 +1,4 @@
+#Mostra a sequencia de siracusa
 __author__ = 'Henley'
 
 def isEven(value):
@@ -34,7 +35,6 @@ def print_sequence(value):
             elemento = 3 * elemento + 1
 
         print elemento
-
 
 
 size = 0
